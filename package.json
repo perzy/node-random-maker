@@ -1,0 +1,28 @@
+{
+  "name": "random-maker",
+  "version": "0.1.0",
+  "description": "Node.js array random maker",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perzy/node-random-maker.git"
+  },
+  "keywords": [
+    "array",
+    "random",
+    "unique"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perzy/node-random-maker/issues"
+  },
+  "homepage": "https://github.com/perzy/node-random-maker#readme"
+}
