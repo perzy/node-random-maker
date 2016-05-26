@@ -1,6 +1,6 @@
 {
   "name": "random-maker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node.js array random maker",
   "main": "index.js",
   "dependencies": {
